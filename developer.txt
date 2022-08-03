@@ -1,0 +1,7 @@
+# Before run the code 
+    - Open Commend prompt and type  pip install PDF2DOC
+    - Run The Folder in your Favourite IDE and then Run the main.py file
+    - This is a basic project try it yourself and try to learn and add new things 
+    - Happy Coding.....
+
+@Copyright - Azaz Ahmad Swapnil :
